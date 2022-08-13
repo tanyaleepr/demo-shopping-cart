@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "name": "Book",
-      "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "name": "Landing Page",
+      "price": 50,
+      "imgUrl": "/imgs/homepage-web-design.jpg"
     },
     {
       "id": 2,
