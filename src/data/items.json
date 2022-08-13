@@ -7,9 +7,9 @@
     },
     {
       "id": 2,
-      "name": "Computer",
+      "name": "Small Logo",
       "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "imgUrl": "/imgs/drawing-logo.jpg"
     },
     {
       "id": 3,
